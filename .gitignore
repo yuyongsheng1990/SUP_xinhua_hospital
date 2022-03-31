@@ -9,3 +9,5 @@ result
 *.dill
 learn
 *.xlsx
+.git
+.ipynb_checkpoints
