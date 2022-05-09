@@ -10,5 +10,4 @@ result
 learn
 *.xlsx
 .git
-.ipynb_checkpoints/
-ipynb_checkpoints
+.ipynb_checkpoints
